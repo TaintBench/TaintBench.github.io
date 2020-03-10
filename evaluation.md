@@ -4,7 +4,7 @@ title: Evaluation
 subtitle:
 ---
 
-# RQ1 How does TaintBench differ from DroidBench?
+# RQ1: How does TaintBench differ from DroidBench?
 ## List of Evaluated Benchmark Suites
 - [DroidBench (3.0)](https://github.com/secure-software-engineering/DroidBench/tree/develop) 
 - [TaintBench](https://taintbench.github.io/taintbenchSuite/)
@@ -24,7 +24,7 @@ subtitle:
 
 ![code complexity](img/data/codeComplexity.PNG)
 
-# RQ2 How effective are taint analysis tools on TaintBench compared to DroidBench?
+# RQ2: How effective are taint analysis tools on TaintBench compared to DroidBench?
 
 ## List of Evaluated Tools
 
@@ -49,7 +49,7 @@ All tools are configured with sources and sinks defined in benchmark suite. Sour
 - [DroidBench](https://github.com/TaintBench/TaintBench/blob/master/DB_SourcesAndSinks.txt)
 - [TaintBench](https://github.com/TaintBench/TaintBench/blob/master/TB_SourcesAndSinks.txt)  
 
-# RQ3 What insights can we gain by evaluating analysis tools on TaintBench?
+# RQ3: What insights can we gain by evaluating analysis tools on TaintBench?
 
 ## Experiment 3 (App-level)
 **Configuration**: 
