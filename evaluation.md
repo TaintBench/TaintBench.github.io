@@ -4,20 +4,28 @@ title: Evaluation
 subtitle:
 ---
 
-# RQ1
+# RQ1 How does TaintBench differ from DroidBench?
 ## List of Evaluated Benchmark Suites
 - [DroidBench (3.0)](https://github.com/secure-software-engineering/DroidBench/tree/develop) 
 - [TaintBench](https://taintbench.github.io/taintbenchSuite/)
 
 ## Usage of Sources and Sinks
+- **Results**: 
+
+![usage of sources and sinks](img/data/usageSourcesSinks.PNG)
 
 ## Call-Graph Complexity
+- **Results**: 
+
+![call-graph complexity](img/data/callgraphComplexity.PNG)
 
 ## Code Complexity
 - **Results**: 
+
 ![code complexity](img/data/codeComplexity.PNG)
 
-# RQ2 & RQ3
+# RQ2 How effective are taint analysis tools on TaintBench compared to DroidBench?
+
 ## List of Evaluated Tools
 
 | Tool          | Version           | Source  |
@@ -40,6 +48,8 @@ All tools are executed in their default configuration. Sources and sinks configu
 All tools are configured with sources and sinks defined in benchmark suite. Sources and sinks of the benchmark suites configured for the tools can be found below:
 - [DroidBench](https://github.com/TaintBench/TaintBench/blob/master/DB_SourcesAndSinks.txt)
 - [TaintBench](https://github.com/TaintBench/TaintBench/blob/master/TB_SourcesAndSinks.txt)  
+
+# RQ3 What insights can we gain by evaluating analysis tools on TaintBench?
 
 ## Experiment 3 (App-level)
 **Configuration**: 
