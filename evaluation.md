@@ -10,6 +10,9 @@ subtitle:
 - [TaintBench](https://taintbench.github.io/taintbenchSuite/)
 
 ## Usage of Sources and Sinks
+- **Lists of potential sources and sinks**:
+    - [List of Sources](https://github.com/TaintBench/TaintBench/blob/master/merged_sources.txt) 
+    - [List of Sinks](https://github.com/TaintBench/TaintBench/blob/master/merged_sinks.txt)
 - **Results**: 
 
 ![usage of sources and sinks](img/data/usageSourcesSinks.PNG)
