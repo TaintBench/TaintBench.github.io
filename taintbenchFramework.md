@@ -6,25 +6,27 @@ subtitle: Faster Construction, Automatic Evaluation, Easier Inspection
 
 # Part 1 -- Construction
 - ## TB-Extractor (Jadx Extension)
-  [Download (to appear)]()
+  [Download (to appear*)]()
 
 - ## TB-Profiler 
-  [Download (to appear)]()
+  [Download (to appear*)]()
  
 
 # Part 2 -- Evaluation
 - ## ReproDroid with TB-Loader
-  [Download (to appear)]()
+  [Download (to appear*)]()
   
 - ## TB-Mapper
-  [Download (to appear)]()
+  [Download (to appear*)]()
   
 - ## DeltaApkGenerator
-  [Download (to appear)]()
+  [Download (to appear*)]()
   
 - ## MinApkGenerator
-  [Download (to appear)]()
+  [Download (to appear*)]()
 
 # Part 3 -- Inspection
 - ## TB-Viewer (Visual Studio Code Extension)
-  [Download (to appear)]()
+  [Download (to appear*)]()
+
+* Due to blind reviewing, the tools will be available after the review process. 
