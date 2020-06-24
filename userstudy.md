@@ -1,7 +1,7 @@
 ---
 layout: page
 title: User Study
-subtitle: User Study for the TaintBench tools 
+subtitle: User Study for the TaintBench Tools 
 ---
 We conducted a user study to evaluate the effectivensse of TB-Extractor and TB-Viewer.
 
