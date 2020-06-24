@@ -29,4 +29,5 @@ subtitle: Faster Construction, Automatic Evaluation, Easier Inspection
 - ## TB-Viewer (Visual Studio Code Extension)
   [Download (to appear*)]()
 
-*Due to blind reviewing, the tools will be available after the review process. 
+
+ [# User Study](userstudy.md)

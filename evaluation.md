@@ -4,7 +4,7 @@ title: Evaluation
 subtitle:
 ---
 
-# RQ1: How does TaintBench differ from DroidBench?
+# RQ1: How does TaintBench compare to DroidBench and Contagio?
 ## List of Evaluated Benchmark Suites
 - [DroidBench (3.0)](https://github.com/secure-software-engineering/DroidBench/tree/develop) 
 - [TaintBench](https://taintbench.github.io/taintbenchSuite/)
