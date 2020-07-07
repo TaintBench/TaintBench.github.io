@@ -23,4 +23,11 @@ Outcome of each workflow:
 |![Evaluate Amandroid 3.2.0](https://github.com/TaintBench/TaintBench/workflows/Evaluate%20Amandroid%203.2.0/badge.svg)|[Workflow Amandroid 3.2.0](https://github.com/TaintBench/TaintBench/actions?query=workflow%3A%22Evaluate+Amandroid+3.2.0%22)| [Results Amandroid 3.2.0](https://github.com/TaintBench/TaintBench/actions/runs/157028083)|
 
 
+# Your contributions
+We welcome new contributions to TaintBench. 
 
+## Contribute a new finding to existing benchmark app
+If you find more taint flows in a TaintBench benchmark app. Please document it with [TB-Extractor](https://taintbench.github.io/taintbenchFramework) and make a pull request to the GitHub repositiory of the benchmark app.  
+
+## Contribute a new benchmark app to TaintBench
+Please contact us by leaving an issue [here](https://github.com/TaintBench/TaintBench/issues).  
