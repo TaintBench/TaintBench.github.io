@@ -4,7 +4,7 @@ title: User Study
 subtitle: User Study for the TaintBench Tools 
 ---
 # User Study Design
-We conducted a user study with five users (experts in taint analysis) to evaluate the effectiveness of TB-Extractor and TB-Viewer.
+We conducted a within-subjects user study with five users (experts in taint analysis) to evaluate the effectiveness of TB-Extractor and TB-Viewer.
 
 | Task                | Description                                                                  |
 |---------------------|------------------------------------------------------------------------------|
