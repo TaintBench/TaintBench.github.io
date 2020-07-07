@@ -4,10 +4,15 @@ title: Continuous Benchmarking
 subtitle: Continuous Benchmarking with TaintBench
 ---
 # Continuous Benchmarking of Android Taint Tools
-We set up GitHub Actions for the following Android Taint Tools. 
-Using from the TaintBench framework, we configured the evaluation of each tool on TaintBench as an automated workflow of Github Actions.
+Considering the future extension of the TaintBench suite, we set up GitHub Actions for continuous benchmarking of the following Android taint tools. 
+- FlowDroid April 2017 Nightly
+- FlowDroid 2.7.1
+- Amandroid 3.1.2
+- Amandroid 3.2.0
 
-Source and sink configuration (App-level):
+Using tools from the TaintBench framework, we configured the evaluation of each tool on TaintBench as an automated workflow of Github Actions.
+
+Source and sink configuration (App-level) in a workflow:
 - For each benchmark app, a list of sources and sinks defined in this app is used to configure the evaluated tool. Each tool analyzes each benchmark app with the associated list of sources and sinks.
 
 Outcome of each workflow:
