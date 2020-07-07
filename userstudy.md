@@ -4,7 +4,7 @@ title: User Study
 subtitle: User Study for the TaintBench Tools 
 ---
 # User Study Design
-We conducted a user study with five users (experts in taint analysis) to evaluate the effectivensse of TB-Extractor and TB-Viewer.
+We conducted a user study with five users (experts in taint analysis) to evaluate the effectiveness of TB-Extractor and TB-Viewer.
 
 | Task                | Description                                                                  |
 |---------------------|------------------------------------------------------------------------------|
@@ -20,7 +20,7 @@ You can download a sample package containing all materials designed for a single
 
 # User comments
 
-## User comments after solving the task **Jadx + TB-Extractor**
+## After solving the task **Jadx + TB-Extractor**
 
 "Very self explanatory system."
 
@@ -32,7 +32,7 @@ You can download a sample package containing all materials designed for a single
 
 "Fairly easy to use. Having to check two different systems is still not ideal, but it's much easier than before and when one has them side by side, the documentation process is comparatively straightforward."
 
-## User comments after solving the task **VSC + TB-Viewer**
+## After solving the task **VSC + TB-Viewer**
 
 "Felt well supported by the tool"
 
