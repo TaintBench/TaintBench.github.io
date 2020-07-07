@@ -3,7 +3,7 @@ layout: page
 title: TaintBench Framework
 subtitle: Faster Construction, Automatic Evaluation, Easier Inspection
 ---
-
+Along with the [TaintBench suite](taintbenchSuite.md), we contribute the TaintBench framework to the research community. The TaintBench framework is a set of tools that are designed to support benchmark suite construction, automatic evaluation of Android taint analysis tools and manual inspection of analysis results.  
 # Part 1 -- Construction
 The following tools support benchmark suite construction:
 - ## TB-Extractor (Jadx Extension)
