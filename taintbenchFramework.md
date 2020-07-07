@@ -36,3 +36,6 @@ The following tools support manual inspection (triaging) of analysis results:
 
 # User Study
 We conducted a user study for the two GUI-based tools --- TB-Extractor and TB-Viewer. Our evaluation results show that experts document and inspect taint flows more efficiently when using the tools. Details about the user study can be found [here](userstudy.md).
+
+
+**Notice**: A research paper is currently under review. Please cite the website if you use TaintBench.

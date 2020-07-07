@@ -4,6 +4,8 @@ title: Evaluation
 subtitle:
 ---
 
+**Notice**: A research paper is currently under review. Please cite the website if you use TaintBench.
+
 # RQ1: How does TaintBench compare to DroidBench and Contagio?
 ## List of Evaluated Benchmark Suites
 - [DroidBench (3.0)](https://github.com/secure-software-engineering/DroidBench/tree/develop) 
