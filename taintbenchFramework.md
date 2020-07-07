@@ -5,7 +5,7 @@ subtitle: Faster Construction, Automatic Evaluation, Easier Inspection
 ---
 
 # Part 1 -- Construction
-The following tools support the benchmark suite construction:
+The following tools support benchmark suite construction:
 - ## TB-Extractor (Jadx Extension)
   [Download](https://github.com/TaintBench/TaintBench/releases/download/TBFramework/TBExtractor-EMSE.zip)
 
