@@ -6,8 +6,13 @@ subtitle: Continuous Benchmarking with TaintBench
 # Continuous Benchmarking of Android Taint Tools
 We set up GitHub Actions for the following Android Taint Tools. 
 Using from the TaintBench framework, we configured the evaluation of each tool on TaintBench as an automated workflow of Github Actions.
-The source and sink configuration of each tool is at app-level based on the benchmark cases in TaintBench.
-The outcome of each workflow includes a benchmark file computed by BREW containing performance metrics (precision, recall, F-measure, analysis time) and raw analysis results of the tool.
+
+Source and sink configuration (App-level):
+- For each benchmark app, a list of sources and sinks defined in this app is used to configure the evaluated tool. Each tool analyzes each benchmark app with the associated list of sources and sinks.
+
+Outcome of each workflow:
+ - A benchmark result file containing performance metrics (precision, recall, F-measure, analysis time).
+ - Raw analysis results outputed by the evaluated tool.
 
 
 | Status        |  GitHub Actions Workflow       | Latests Evaluation Results  |
