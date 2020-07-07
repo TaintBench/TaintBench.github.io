@@ -3,4 +3,5 @@ layout: page
 title: Downloads
 #subtitle: All about the TaintBench Suite
 ---
-Downloads will be available once the paper gets accepted. 
+- [Download the TaintBench suite](hhttps://github.com/TaintBench/TaintBench/releases/download/TaintBenchSuite/TaintBench.zip)
+- [Download the baseline findings of the TaintBench suite](https://github.com/TaintBench/TaintBench/releases/download/TaintBenchSuite/findings.zip)
