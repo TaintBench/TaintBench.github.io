@@ -4,7 +4,7 @@ title: Evaluation
 subtitle:
 ---
 
-**Notice**: A research paper is currently under review. Please cite the website if you use TaintBench.
+**Notice**: A research paper is currently under review. Please cite the website if you use TaintBench. Only partial results are presented on this page. 
 
 # RQ1: How does TaintBench compare to DroidBench and Contagio?
 ## List of Evaluated Benchmark Suites
