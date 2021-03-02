@@ -22,10 +22,11 @@ Outcome of each workflow:
 
 | Status        |  GitHub Actions Workflow       | Latests Evaluation Results  |
 | ------------- |:-------------:| -----:|
-| ![Evaluate FlowDroid April 2017 Nightly](https://github.com/TaintBench/TaintBench/workflows/Evaluate%20FlowDroid%20April%202017%20Nightly/badge.svg)| [Workflow FlowDroid April 2017 Nightly](https://github.com/TaintBench/TaintBench/actions?query=workflow%3A%22Evaluate+FlowDroid+April+2017+Nightly%22)| [Results FlowDroid April 2017 Nightly](https://github.com/TaintBench/TaintBench/actions/runs/161978617)|
-|![Evaluate FlowDroid 2.7.1](https://github.com/TaintBench/TaintBench/workflows/Evaluate%20FlowDroid%202.7.1/badge.svg)| [Workflow FlowDroid 2.7.1](https://github.com/TaintBench/TaintBench/actions?query=workflow%3A%22Evaluate+FlowDroid+2.7.1%22)| [Results FlowDroid 2.7.1](https://github.com/TaintBench/TaintBench/actions/runs/161978613)|
-![Evaluate Amandroid 3.1.2](https://github.com/TaintBench/TaintBench/workflows/Evaluate%20Amandroid%203.1.2/badge.svg) |[Workflow Amandroid 3.1.2](https://github.com/TaintBench/TaintBench/actions?query=workflow%3A%22Evaluate+Amandroid+3.1.2%22) |[Results Amandroid 3.1.2]( https://github.com/TaintBench/TaintBench/actions/runs/161978598)|
-|![Evaluate Amandroid 3.2.0](https://github.com/TaintBench/TaintBench/workflows/Evaluate%20Amandroid%203.2.0/badge.svg)|[Workflow Amandroid 3.2.0](https://github.com/TaintBench/TaintBench/actions?query=workflow%3A%22Evaluate+Amandroid+3.2.0%22)| [Results Amandroid 3.2.0](https://github.com/TaintBench/TaintBench/actions/runs/161978605)|
+| ![Evaluate FlowDroid April 2017 Nightly](https://github.com/TaintBench/TaintBench/workflows/Evaluate%20FlowDroid%20April%202017%20Nightly/badge.svg)| [Workflow FlowDroid April 2017 Nightly](https://github.com/TaintBench/TaintBench/actions/workflows/workflowfdold.yml)| [Results FlowDroid April 2017 Nightly](https://github.com/TaintBench/TaintBench/actions/runs/613671652)|
+|![Evaluate FlowDroid 2.7.1](https://github.com/TaintBench/TaintBench/workflows/Evaluate%20FlowDroid%202.7.1/badge.svg)| [Workflow FlowDroid 2.7.1](https://github.com/TaintBench/TaintBench/actions/workflows/workflowfd271.yml)| [Results FlowDroid 2.7.1](https://github.com/TaintBench/TaintBench/actions/runs/613671647)|
+![Evaluate Amandroid 3.1.2](https://github.com/TaintBench/TaintBench/workflows/Evaluate%20Amandroid%203.1.2/badge.svg) |[Workflow Amandroid 3.1.2](https://github.com/TaintBench/TaintBench/actions/workflows/workflowad312.yml) |[Results Amandroid 3.1.2]( https://github.com/TaintBench/TaintBench/actions/runs/613671654)|
+|![Evaluate Amandroid 3.2.0](https://github.com/TaintBench/TaintBench/workflows/Evaluate%20Amandroid%203.2.0/badge.svg)|[Workflow Amandroid 3.2.0](https://github.com/TaintBench/TaintBench/actions/workflows/workflowad320.yml)| [Results Amandroid 3.2.0](https://github.com/TaintBench/TaintBench/actions/runs/613671646)|
+
 
 
 # New contributions are welcome!
