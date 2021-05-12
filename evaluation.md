@@ -27,7 +27,9 @@ subtitle:
 ## Code Complexity
 - **Results**: 
 
-![code complexity](img/data/codeComplexity.PNG)
+![code complexity](img/data/codeComplexity1.PNG)
+
+![code complexity](img/data/codeComplexity2.PNG)
 
 # RQ2: How effective are taint analysis tools on TaintBench compared to DroidBench?
 
