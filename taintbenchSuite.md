@@ -50,4 +50,4 @@ subtitle: A Malware Benchmark Suite For Android Taint Analysis
 
 - A research paper is currently under review. Please cite the website if you use TaintBench.
 - The benchmark apps selected in TaintBench are old malware apps, so it is very likely that the servers used by these malware apps have been taken down. Thus, we do not recommend to use TaintBench for evaluating dynamic taint analysis approaches. 
-- LOC was computed on the decompiled source code of each app. 
+- LOC was computed on the decompiled source code of each app (see more measurements [here](https://taintbench.github.io/evaluation/)).
