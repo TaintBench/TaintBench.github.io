@@ -41,4 +41,13 @@ The following tools support manual inspection (triaging) of analysis results:
 We conducted a user study for the two GUI-based tools --- TB-Extractor and TB-Viewer. Our evaluation results show that experts document and inspect taint flows more efficiently when using the tools. Details about the user study can be found [here](userstudy.md).
 
 
-**Notice**: A research paper is currently under review. Please cite the website if you use TaintBench.
+**Notice**: Please cite the following paper if you are using TaintBench: 
+```
+@article{Luo2021,
+author = {Linghui Luo and Felix Pauck and Goran Piskachev and Manuel Benz and Ivan Pashchenko and Martin Mory and Eric Bodden and Ben Hermann and Fabio Massacci},
+title = {TaintBench: Automatic Real-World Malware Benchmarking of Android Taint Analyses},
+year = {2021},
+journal = {Empirical Software Engineering},
+note = {to appear}
+}
+```
