@@ -51,6 +51,7 @@ journal = {Empirical Software Engineering}, <br>
 note = {to appear} <br>
 }
 
-** Disclaimer**
+**Disclaimer**:
+
 Your download and use of this benchmark suite are at your own risk.
 We will not be liable for any loss or damage caused by malware or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of the TaintBench suite, or in any way in conjunction with, the TaintBench suite.

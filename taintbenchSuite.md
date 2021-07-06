@@ -3,7 +3,7 @@ layout: page
 title: TaintBench Suite
 subtitle: A Malware Benchmark Suite For Android Taint Analysis 
 ---
-** Disclaimer**
+**Disclaimer**:
 Your download and use of this benchmark suite are at your own risk.
 We will not be liable for any loss or damage caused by malware or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of the TaintBench suite, or in any way in conjunction with, the TaintBench suite.
 
@@ -52,8 +52,7 @@ We will not be liable for any loss or damage caused by malware or other technolo
 
 **Notice**: 
 
-- Please cite the following paper if you are using TaintBench: 
-
+- Please cite the following paper if you are using TaintBench:<br> 
 @article{TaintBench2021, <br>
 author = {Linghui Luo and Felix Pauck and Goran Piskachev and Manuel Benz and Ivan Pashchenko and Martin Mory and Eric Bodden and Ben Hermann and Fabio Massacci},<br>
 title = {TaintBench: Automatic Real-World Malware Benchmarking of Android Taint Analyses}, <br>
@@ -65,7 +64,8 @@ note = {to appear} <br>
 - The benchmark apps selected in TaintBench are old malware apps, so it is very likely that the servers used by these malware apps have been taken down. Thus, we do not recommend to use TaintBench for evaluating dynamic taint analysis approaches. 
 - LOC was computed on the decompiled source code of each app (see more measurements [here](https://taintbench.github.io/evaluation/)).
 
-** Disclaimer**
+**Disclaimer**:
+
 Your download and use of this benchmark suite are at your own risk.
 We will not be liable for any loss or damage caused by malware or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of the TaintBench suite, or in any way in conjunction with, the TaintBench suite.
 
