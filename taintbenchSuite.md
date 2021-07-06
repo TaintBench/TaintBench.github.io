@@ -3,6 +3,10 @@ layout: page
 title: TaintBench Suite
 subtitle: A Malware Benchmark Suite For Android Taint Analysis 
 ---
+** Disclaimer**
+Your download and use of this benchmark suite are at your own risk.
+We will not be liable for any loss or damage caused by malware or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of the TaintBench suite, or in any way in conjunction with, the TaintBench suite.
+
 | No. | Name                                       |Expected Flows |Unexpected Flows|                                                              Repository                                                              |                                                                    View Flows on GitPod                                                                    | Executable<br>Nexus 4<br>API Level 25 |#Classes| #Methods| LOC|
 |-----|--------------------------------------------|:-------------:|:------------:|:------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----:|:-----:|:-----:|:-----:|
 | 1   | backflash                                  |13|11|                  <a href='https://github.com/TaintBench/backflash'><img src='../img/github-logo.png' width='30'></a>                 |                  <a href='https://gitpod.io/#https://github.com/TaintBench/backflash'><img src='../img/gitpod-logo.svg' width='30'></a>                 |YES|338|2477|20965|
