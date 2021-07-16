@@ -34,8 +34,8 @@ The following tools support automatic evaluation of Android taint analysis tools
 # Part 3 -- Inspection
 The following tools support manual inspection (triaging) of analysis results:
 - ## TB-Viewer (Visual Studio Code Extension)
-  - [Download](https://github.com/TaintBench/TaintBench/releases/download/TBFramework/TB-Viewer-0.0.1-EMSE.zip)
-  - [Source Code Repository (to appear)]()
+  - [Download](https://open-vsx.org/extension/taintbench/TB-Viewer)
+  - [Source Code Repository](https://github.com/TaintBench/TB-Viewer)
 
 # User Study
 We conducted a user study for the two GUI-based tools --- TB-Extractor and TB-Viewer. Our evaluation results show that experts document and inspect taint flows more efficiently when using the tools. Details about the user study can be found [here](userstudy.md).
