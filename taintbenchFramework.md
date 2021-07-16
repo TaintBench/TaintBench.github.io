@@ -7,8 +7,9 @@ Along with the [TaintBench suite](taintbenchSuite.md), we contribute the TaintBe
 # Part 1 -- Construction
 The following tools support benchmark suite construction:
 - ## TB-Extractor (Jadx Extension)
+  - [Introduction Video](https://youtu.be/rTLNIGXELS0)
   - [Download](https://github.com/TaintBench/TaintBench/releases/download/TBFramework/TBExtractor-EMSE.zip)
-  - [Source Code Repository (to appear)]()
+  - [Source Code Repository](https://github.com/secure-software-engineering/jadx-taintdoc)
 - ## TB-Profiler 
   - [Download](https://github.com/TaintBench/TaintBench/releases/download/TBFramework/TB-Profiler-0.0.1-EMSE.zip)
   - [Source Code Repository (to appear)]()
@@ -34,6 +35,7 @@ The following tools support automatic evaluation of Android taint analysis tools
 # Part 3 -- Inspection
 The following tools support manual inspection (triaging) of analysis results:
 - ## TB-Viewer (Visual Studio Code Extension)
+  - [Introduction Video](https://youtu.be/UQSHwN_aC9g)
   - [Download](https://open-vsx.org/extension/taintbench/TB-Viewer)
   - [Source Code Repository](https://github.com/TaintBench/TB-Viewer)
 
