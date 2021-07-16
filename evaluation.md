@@ -4,9 +4,17 @@ title: Evaluation
 subtitle:
 ---
 
-**Notice**: A research paper is currently under review. Please cite the website if you use TaintBench. Only partial results are presented on this page. 
+**Notice**: Please cite the following paper if you are using TaintBench: 
 
-# RQ1: How does TaintBench compare to DroidBench and Contagio?
+@article{TaintBench2021, <br>
+author = {Linghui Luo and Felix Pauck and Goran Piskachev and Manuel Benz and Ivan Pashchenko and Martin Mory and Eric Bodden and Ben Hermann and Fabio Massacci},<br>
+title = {TaintBench: Automatic Real-World Malware Benchmarking of Android Taint Analyses}, <br>
+year = {2021}, <br>
+journal = {Empirical Software Engineering}, <br>
+note = {to appear} <br>
+}
+
+# How does TaintBench compare to DroidBench?
 ## List of Evaluated Benchmark Suites
 - [DroidBench (3.0)](https://github.com/secure-software-engineering/DroidBench/tree/develop) 
 - [TaintBench](https://taintbench.github.io/taintbenchSuite/)
@@ -31,7 +39,7 @@ subtitle:
 
 ![code complexity](img/data/codeComplexity2.PNG)
 
-# RQ2: How effective are taint analysis tools on TaintBench compared to DroidBench?
+# How effective are taint analysis tools on TaintBench compared to DroidBench?
 
 ## List of Evaluated Tools
 
@@ -55,8 +63,6 @@ All tools are executed in their default configuration. Sources and sinks configu
 All tools are configured with sources and sinks defined in benchmark suite. Sources and sinks of the benchmark suites configured for the tools can be found below:
 - [DroidBench](https://github.com/TaintBench/TaintBench/blob/master/DB_SourcesAndSinks.txt)
 - [TaintBench](https://github.com/TaintBench/TaintBench/blob/master/TB_SourcesAndSinks.txt)  
-
-# RQ3: What insights can we gain by evaluating analysis tools on TaintBench?
 
 ## Experiment 3 (App-level)
 **Configuration**: 
