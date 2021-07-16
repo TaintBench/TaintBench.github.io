@@ -34,7 +34,7 @@ TaintBench serves as a starting point for automatic benchmarking of Android tain
 We welcome new contributions to TaintBench. 
 
 ### Contribute a new finding to an existing benchmark app
-If you find more taint flows in a TaintBench benchmark app. Please document it with [TB-Extractor](https://taintbench.github.io/taintbenchFramework) and make a pull request to the GitHub repositiory of the benchmark app.  
+If you find more taint flows in a TaintBench benchmark app. Please document it with [TB-Extractor](https://taintbench.github.io/taintbenchFramework) in [TAF-format](https://github.com/TaintBench/TaintBench/blob/master/TAF-schema.json) and make a pull request to the GitHub repositiory of the benchmark app.  
 
 ### Contribute a new benchmark app to the TaintBench suite
 Please contact us by leaving an issue [here](https://github.com/TaintBench/TaintBench/issues).  

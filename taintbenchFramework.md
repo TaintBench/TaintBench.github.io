@@ -33,7 +33,7 @@ The following tools support automatic evaluation of Android taint analysis tools
   - [Source Code Repository (to appear)]()
 
 # Part 3 -- Inspection
-The following tools support manual inspection (triaging) of analysis results:
+The following tool supports manual inspection (triaging) of analysis results. It displays taint flows in [TAF-format](https://github.com/TaintBench/TaintBench/blob/master/TAF-schema.json) and [AQL-format](https://github.com/FoelliX/AQL-System/blob/master/schemas/answer.xsd):
 - ## TB-Viewer (Visual Studio Code Extension)
   - [Introduction Video](https://youtu.be/UQSHwN_aC9g)
   - [Download](https://open-vsx.org/extension/taintbench/TB-Viewer)
